@@ -1,0 +1,39 @@
+{
+  "name": "Hover",
+  "description": "A floating notepad, with superpowers.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Hover"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+
+  "web_accessible_resources": ["app-frame.html","app-frame-style.css","/apps/*","interact.min.js","mark.min.js"],
+
+  "commands": {
+      "get-selected-text": {
+          "suggested_key": {
+            "windows": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y",
+            "chromeos": "Ctrl+Shift+U",
+            "linux": "Ctrl+Shift+J"
+          },
+          "description": "Get the selected text from the active tab."
+      }
+  },
+
+	"icons": {
+    "16": "/images/Hover-Logo@16.png",
+    "32": "/images/Hover-Logo@32.png",
+    "48": "/images/Hover-Logo@48.png",
+    "128": "/images/Hover-Logo@128.png"
+  }
+}
