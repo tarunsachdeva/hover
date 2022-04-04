@@ -3,6 +3,9 @@ A floating notepad in your browser
 
 Hover is a half-finished experiment in spatial note-taking. You can install the Hover Chrome extension [here](https://chrome.google.com/webstore/detail/hover/lepdeghhgnfgndhbhhgjmgdggikibcca?hl=en&authuser=0).
 
+![Screen Recording 2022-04-03 at 9 22 16 PM](https://user-images.githubusercontent.com/826496/161461378-6f1a3991-8e3c-45cc-84e8-499428f4026f.gif)
+
+
 Key Features
 * Launches on top of any webpage, slightly translucent so you can still read what's under the notepad
 * Resize and move the notepad anywhere
