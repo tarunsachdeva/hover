@@ -9,6 +9,7 @@ Here's Hover in action on a Wikipedia page:
 * Resize and move the notepad anywhere
 * Whenever you select text on the webpage, it automatically copies the text to the notepad (after a slight pause) as "quoted text"
 
+
 **TODO:**
 * Save! Right now this is client side only, and nothing is saved anywhere.
 * Basic Windowing logic (right now hover just stacks one on top of another, without any limits)
