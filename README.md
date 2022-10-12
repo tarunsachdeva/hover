@@ -14,7 +14,7 @@ Here's Hover in action on a Wikipedia page:
 * Basic Windowing logic (right now hover just stacks one on top of another, without any limits)
 * Resize and Moving is a bit buggy: I think most of this just needs to be rewritten (currently using interactjs.io)
 
-I don't have time to work on this anymore but if anyone wants to take over, feel free to fork. Not watching PR's. 
+I don't have time to work on this anymore but if anyone wants to take over, feel free to check out the open issues and submit a PR.
 
 ✌🏽
 
