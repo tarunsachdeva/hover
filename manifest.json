@@ -1,6 +1,6 @@
 {
   "name": "Hover",
-  "description": "A floating notepad, with superpowers.",
+  "description": "A floating notepad with superpowers.",
   "version": "1.01",
   "manifest_version": 2,
   "background": {

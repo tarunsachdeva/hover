@@ -60,8 +60,6 @@ function summarizeText() {
 	};
 	xhr.send(JSON.stringify(data));
 	xhr.close();
-
-	// notepad.innerHTML += "Summarize:"+selectedText;
 }
 
 document.getElementById("notepad-content").addEventListener('focusout', function (e) {
