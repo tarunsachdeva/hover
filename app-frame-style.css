@@ -31,6 +31,10 @@
   opacity: 0;
 }
 
+#notepad-content {
+  overflow: scroll;
+}
+
 .show {
 /*  opacity: 1;
   transition: opacity 1000ms;
